@@ -22,6 +22,14 @@
 - **Project 2: Credit Risk Modelling**  
   Built econometric models to estimate real estate credit risk, achieving 87.62% accuracy.
 
+### 📈 Quantitative Finance Projects
+
+This repository contains a collection of my independent research projects in quantitative finance, focusing on factor construction, regression modeling, and cross-sectional backtesting.
+
+Each folder documents a specific factor study or trading strategy, implemented in Python using `pandas`, `statsmodels`, and `matplotlib`. Most projects follow a full-cycle workflow: from data processing and factor construction to IC tests and portfolio backtests.
+
+🔗 [View the repository](https://github.com/EvelynWang94/Quant-projects)
+
 ---
 
 ### 📫 Connect with Me
